@@ -7,7 +7,7 @@
 [![Test](https://github.com/bionicotaku/Evan_Li_IDS706_Hwk11/actions/workflows/test.yml/badge.svg)](https://github.com/bionicotaku/Evan_Li_IDS706_Hwk11/actions/workflows/test.yml)
 
 
-You can find the cloud-hosted notebook here: [Evan Li IDS706 Googl Colab Link](https://colab.research.google.com/drive/1e1IQG0HHfwCZVFfwzpD5rgABEsUzYTtN?usp=sharing)
+You can find the cloud-hosted notebook here: [Evan Li IDS706 Google Colab Link](https://colab.research.google.com/drive/1e1IQG0HHfwCZVFfwzpD5rgABEsUzYTtN?usp=sharing)
 
 All code has been executed and markdown text has been added, allowing you to clearly see the documented execution results.
 
